@@ -1,0 +1,2 @@
+This is a text file with ip address: 192.168.1.1 within it, there are more addresses like this one 10.23.12.1
+sprinkled throughout the 1.2.3.4 file.  SomeRight10.3.3.2Next to each other some spaced apart.
